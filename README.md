@@ -1,5 +1,11 @@
 # Biblioteca
 
+## INTEGRANTES
+- Arthur Alves de Sousa - UC22102156 
+- Cauã Nunes de Lima Sales - UC22100876
+- Eraim de Jesus Farias Costa - UC22102451 
+- Mariana de Sousa Guarino - UC22101714
+
 ## Descrição do Projeto
 Este projeto implementa um servidor de biblioteca em Java utilizando sockets para comunicação cliente-servidor para manipulação de JSON.
 
