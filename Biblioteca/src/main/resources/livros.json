@@ -65,6 +65,12 @@
       "titulo": "TESTE",
       "exemplares": 4,
       "genero": "TESTE"
+    },
+    {
+      "autor": "Efras",
+      "titulo": "Opa",
+      "exemplares": 7,
+      "genero": "UCB"
     }
   ]
 }
